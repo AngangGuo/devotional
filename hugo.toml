@@ -1,0 +1,4 @@
+baseURL = 'https://devotional.angang.ca/'
+locale = 'en-us'
+title = 'Andrew Devotional'
+theme = 'hugo-theme-relearn'

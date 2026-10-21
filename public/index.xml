@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily Devotional :: Andrew Devotional</title>
+    <link>http://localhost:56648/index.html</link>
+    <description>Experiencing God Day by Day: Devotional and Journal&#xA;Devotion vs Devotional&#xA;Devotion is a noun that means deep love, loyalty, or commitment to a person, cause, or spiritual practice. In a spiritual context, it refers to the ongoing relational state of living for and drawing close to God. Devotional can function as an adjective or a noun: As a noun, it is a book, booklet, or piece of literature (containing a Bible verse, a short reflection, and a prayer) used to guide spiritual thought. It can also refer to a short religious service. As an adjective, it describes things related to worship or spiritual practice (e.g., “devotional reading” or “devotional music”) Example: Mornings With God: Daily Bible Devotional for Women: 365 Devotions to Inspire Your Day</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Oct 2026 08:26:27 -0700</lastBuildDate>
+    <atom:link href="http://localhost:56648/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026</title>
+      <link>http://localhost:56648/2026/index.html</link>
+      <pubDate>Wed, 21 Oct 2026 08:26:27 -0700</pubDate>
+      <guid>http://localhost:56648/2026/index.html</guid>
+      <description>in 2026</description>
+    </item>
+  </channel>
+</rss>
