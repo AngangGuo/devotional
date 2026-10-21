@@ -1,4 +1,7 @@
-baseURL = 'https://devotional.angang.ca/'
+baseURL = 'https://devotional.brideofchrist.ca/'
 locale = 'en-us'
-title = 'Andrew Devotional'
+title = 'Devotional'
 theme = 'hugo-theme-relearn'
+
+[params]
+collapsibleMenu = true
