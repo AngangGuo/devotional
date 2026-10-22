@@ -5,3 +5,4 @@ theme = 'hugo-theme-relearn'
 
 [params]
 collapsibleMenu = true
+ordersectionsby = "title"

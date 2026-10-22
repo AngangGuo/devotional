@@ -29,6 +29,19 @@ Then add this at the top of your `hugo.toml`
 theme = 'hugo-theme-relearn'
 ```
 
+### Configuration
+hugo.toml
+```
+baseURL = 'https://devotional.brideofchrist.ca/'
+locale = 'en-us'
+title = 'Devotional'
+theme = 'hugo-theme-relearn'
+
+[params]
+collapsibleMenu = true
+ordersectionsby = "title"
+```
+
 ### Netlify Site
 To host/deploy this project to the free Netlify site, do the following.
 
