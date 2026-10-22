@@ -1,11 +1,11 @@
 +++
-title = "Daily Devotional"
+title = "灵修笔记"
 type = "home"
 +++
 
-devotional.brideofchrist.ca
+每日与神同行的领受及感动。
 
-My Journey with God.
+### 网站地址
+* devotional.brideofchrist.ca
 
-Experiencing God Day by Day: Devotional and Journal
 

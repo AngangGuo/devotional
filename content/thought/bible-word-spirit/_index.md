@@ -1,7 +1,7 @@
 +++
 date = '2026-10-22T08:55:09-07:00'
 draft = false
-title = 'Bible, Word, and Spirit'
+title = '圣经、圣灵和神的话'
 +++
 
 这三个概念在基督教信仰中密切相关，但并不完全相同。

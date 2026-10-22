@@ -1,7 +1,7 @@
 +++
 date = '2026-10-22T08:12:10-07:00'
 draft = false
-title = 'Project Setup'
+title = '项目创建笔记'
 +++
 
 ## Project Name
