@@ -1,7 +1,7 @@
 +++
 date = '2026-10-21T13:15:02-07:00'
 draft = false
-title = 'Documents'
+title = '档案'
 +++
 
-Documents, thoughts, and ideas.
+观点、思索、想法、及档案。

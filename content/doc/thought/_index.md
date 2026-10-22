@@ -1,7 +1,7 @@
 +++
 date = '2026-10-22T08:21:46-07:00'
 draft = false
-title = 'My Thoughts'
+title = '想法及观点'
 +++
 
 ### 底线
