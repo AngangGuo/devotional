@@ -75,6 +75,17 @@ DNS Records(canspace.ca)
     * Service: Other (paste the full value)
     * Verification value: `subdomain-owner-verification=1e2688xxx`
 
+### Clone
+If you want to clone a project with submodule, use following command:
+```
+// run this in the vscode project folder: vscodeProject
+git clone --recurse-submodules --shallow-submodules https://github.com/AngangGuo/devotional.git
+```
+Note:
+* `--recurse-submodules`: clone the relearn theme submodule
+* `--shallow-submodules`: clone only depth 1 of the submodule
+* Default folder name is "devotional", you can use a customer folder name by adding it at the end of the above command.
+
 ### Remove tracked files from Github
 I commited the `public` folder by mistake, to remove all the files from Github
 
